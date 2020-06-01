@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gowu-eureka-server7001" />
+        <module name="gowu-account-service-8803" />
         <module name="gowu-date" />
+        <module name="gowu-place-an-order-8801" />
+        <module name="gowu-storage-service-8802" />
       </profile>
     </annotationProcessing>
   </component>
